@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Chandana 👋
 
-<!--
-**chandana-12345145/chandana-12345145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & Software Developer
+🎓 Computer Science Engineering Student
+🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* TensorFlow
+* OpenCV
+* Django
+* Deep Learning
+* Machine Learning
+
+# Projects
+
+* AI-Based Brain Tumor Detection System
+* Smart Waste Management System
+* Skin Cancer Classification
+* Energy Analytics Platform
+
+# Currently Learning
+
+* Advanced AI/ML
+* Full Stack Development
+* Cloud Technologies
+
